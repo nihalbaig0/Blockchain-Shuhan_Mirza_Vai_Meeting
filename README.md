@@ -21,7 +21,7 @@
 
 > BlockChain Decision Path
 
-![Blockchain Decision Path](images/blockdes.jpg)
+![Blockchain Decision Path](https://i.imgur.com/tBQN5ob.jpg)
 
 > WhitePaper
 - MS Word or LaTEX
